@@ -2,7 +2,7 @@ package day44_Collections_malatya;
 
 public class COLLECTIONS_TURLERI {
 
-    /*
+    /*  //////
     set(kume)--> benzersiz kumeler gibi uniq
  Queue--> yemekhane kuyrugu gibi dusunulebilir
  linked (Hlalay)-->  birbirine bagli
